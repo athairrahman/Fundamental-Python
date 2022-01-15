@@ -1,3 +1,3 @@
 # fundamental-python
 
-Penejelasan tentang bahasa pemograman python
+Penjelasan tentang bahasa pemograman python
