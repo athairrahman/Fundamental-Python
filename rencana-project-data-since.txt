@@ -5,5 +5,7 @@ RENCANA KEDEPANNYA
   - tools yang harus diperlukan data since
   
 2. Apa yang harus dibutuhkan dengan data since
+  - data
+  - fundamental bahasa python
 
 3. Mengapa data since
