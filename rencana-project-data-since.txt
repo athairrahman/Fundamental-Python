@@ -1,5 +1,9 @@
 RENCANA KEDEPANNYA
 
 1. Sejarah data Since
+  - Penemu data since
+  - tools yang harus diperlukan data since
+  
 2. Apa yang harus dibutuhkan dengan data since
+
 3. Mengapa data since
