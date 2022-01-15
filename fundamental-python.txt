@@ -1,4 +1,3 @@
-- Sejarah Python
 - Struktur Data Python
 - Perulangan Python
 - Penjelasan tentang Array dalam Python
